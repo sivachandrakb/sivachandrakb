@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Deep Learning & NLP**
 - 👀 I’m looking to collaborate on **AI & Machine Learning Research Projects**
 - 🎯 2025 Goal: **Develop Problem Solving Skills**
-- 📑 Research: **Chronic Kidney Disease, MRI Classification, NLP Applications**
+- 📑 Research: **Deep Learning, Machine Learning, NLP**
 - 📫 How to reach me: **kbsivachandra@gmail.com**
 
 ---
