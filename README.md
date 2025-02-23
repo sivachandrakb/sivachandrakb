@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Deep Learning & NLP**
 - 👀 I’m looking to collaborate on **AI & Machine Learning Research Projects**
-- 🎯 2025 Goal: **Develop Problem Solving Skills **
+- 🎯 2025 Goal: **Develop Problem Solving Skills**
 - 📑 Research: **Chronic Kidney Disease, MRI Classification, NLP Applications**
 - 📫 How to reach me: **kbsivachandra@gmail.com**
 
@@ -12,25 +12,12 @@
 ### 🔬 Research & Projects  
 
 - **Causal Detection from Newspapers**  
-  📌 Traditional NLP techniques & Attention Mechanism  
-
 - **Dealing with Light and Bias Variance**  
-  📌 Deep learning techniques on arsenic skin images  
-
 - **Intracranial Tumor Subtype Classification**  
-  📌 Custom CNN model for early tumor detection  
-
 - **Chronic Kidney Disease Detection**  
-  📌 Clinical Decision Support System (**ICOECA Conference**)  
-
 - **Kidney Stone Detection (Urine Biomarker Profiling)**  
-  📌 Urolithiasis risk prediction (**CODE-AI Conference**)  
-
 - **Kidney CT Scan Image Classification**  
-  📌 Nephrolithiasis taxonomy (**IEEE-ICACRS Conference**)  
-
 - **Deaf Language Detection Tool**  
-  📌 CNN-based ASL recognition (**ICIRCA 2023 Conference**)  
 
 ---
 
@@ -51,4 +38,4 @@
 - 🐦 **Twitter**: [@your-twitter](https://twitter.com/your-twitter)  
 - 📷 **Instagram**: [@your-instagram](https://instagram.com/your-instagram)  
 
-⭐️ *Feel free to contribute and star my repositories!* 🚀
+⭐️ *Feel free to contribute and star my repositories!* 🚀  
