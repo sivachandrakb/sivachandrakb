@@ -14,11 +14,11 @@
 
 ## 🔬 Research & Projects  
 
-- **Causal Detection from Newspapers**  
-- **Intracranial Tumor Subtype Classification**  
-- **Chronic Kidney Disease Detection**  
-- **Kidney Stone Detection (Urine Biomarker Profiling)**  
-- **Kidney CT Scan Image Classification**  
+- **Deep Learning**  
+- **Machine Learning**  
+- **Image Preprocessing**  
+- **Natural Language Processing**  
+- **Image Classification**  
 
 ---
 
