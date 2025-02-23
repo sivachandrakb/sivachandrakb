@@ -14,11 +14,12 @@
 
 ## 🔬 Research & Projects  
 
-### 🧠 **Artificial Intelligence & Deep Learning**  
+<p align="center">
+  <img src="https://img.shields.io/badge/🧠-Artificial%20Intelligence%20&%20Deep%20Learning-9cf?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🖼️-Computer%20Vision%20&%20Image%20Processing-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📝-Natural%20Language%20Processing%20(NLP)-yellow?style=for-the-badge" />
+</p>
 
-### 🖼️ **Computer Vision & Image Processing**  
-
-### 📝 **Natural Language Processing (NLP)**  
 ---
 
 ## 🛠 Skills & Databases  
