@@ -5,7 +5,6 @@
 
 ## 🚀 About Me  
 
-- 🌱 Currently learning **Deep Learning & NLP**  
 - 👀 Passionate about **AI & Machine Learning Research**  
 - 🎯 **Goal:** Develop Problem-Solving Skills  
 - 📫 **Email:** [kbsivachandra@gmail.com](mailto:kbsivachandra@gmail.com)  
