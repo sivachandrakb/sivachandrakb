@@ -8,7 +8,7 @@
 
 ---
 
-### 🚀 About Me  
+## 🚀 About Me  
 
 - 🌱 I’m currently learning **Deep Learning & NLP**  
 - 👀 I’m looking to collaborate on **AI & Machine Learning Research Projects**  
@@ -32,7 +32,7 @@
 
 ---
 
-## 🛠 Skills  
+## 🛠 Skills & Databases  
 
 ### **💻 Programming & AI Tools:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
