@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Deep Learning & NLP**
 - 👀 I’m looking to collaborate on **AI & Machine Learning Research Projects**
-- 🎯 2025 Goal: **Ace GATE with a 73+ score**
+- 🎯 2025 Goal: **Develop Problem Solving Skills **
 - 📑 Research: **Chronic Kidney Disease, MRI Classification, NLP Applications**
 - 📫 How to reach me: **kbsivachandra@gmail.com**
 
