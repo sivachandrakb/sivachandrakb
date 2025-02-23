@@ -35,7 +35,6 @@
 ### 📫 Connect with Me  
 - 📍 **Location**: Thrissur, India  
 - 🌐 **Portfolio**: [your-website.com](https://your-website.com)  
-- 🐦 **Twitter**: [@your-twitter](https://twitter.com/your-twitter)  
 - 📷 **Instagram**: [@your-instagram](https://instagram.com/your-instagram)  
 
 ⭐️ *Feel free to contribute and star my repositories!* 🚀  
