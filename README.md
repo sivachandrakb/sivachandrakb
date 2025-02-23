@@ -17,13 +17,6 @@
 
 ---
 
-### 🔥 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivachandrakb&layout=compact&theme=dark" alt="Most Used Languages" />
-</p>
-
----
 
 ### 🔬 Research & Projects  
 
