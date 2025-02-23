@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sivachandra K B</h1>
 <h3 align="center">M.Tech Data Science Student | AI & ML Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sivachandrakb&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/sivachandrakb?label=Followers&style=social" alt="GitHub Followers" />
-</p>
-
 ---
 
 ## 🚀 About Me  
@@ -33,8 +28,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+
 </p>
 
 ### **📊 Databases & Cloud**  
@@ -46,11 +40,13 @@
 
 ---
 
-
 ## 🌐 Connect with Me  
 
 <p align="center">
   <a href="mailto:kbsivachandra@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/sivachandra-k-b-236206211" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
 ---
