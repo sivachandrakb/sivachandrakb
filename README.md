@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sivachandra K B</h1>
-<h3 align="center">I'm a Student, Developer, and AI Enthusiast!</h3>
+<h3 align="center">M.Tech Data Science Student | AI & ML Enthusiast</h3>
 
 - 🌱 I’m currently learning **Deep Learning & NLP**
-- 👀 I’m looking to collaborate on **Open Source AI Projects**
+- 👀 I’m looking to collaborate on **AI & Machine Learning Research Projects**
 - 🎯 2025 Goal: **Ace GATE with a 73+ score**
-- 💬 Ask me about **Machine Learning, Python, TensorFlow, and Cyber Security**
+- 📑 Research: **Chronic Kidney Disease, MRI Classification, NLP Applications**
 - 📫 How to reach me: **kbsivachandra@gmail.com**
 
 ---
@@ -55,14 +55,14 @@
 - **Programming:** Python, Java  
 - **Machine Learning & Deep Learning**  
 - **Databases:** MySQL, Oracle SQL, SAP HANA  
-- **Quick to Adapt & Systematic**  
+- **Quick to Adapt & Systematic Thinking**  
 - **Basic Command Line Commands**  
-- **Persuasive & Collaborative**  
+- **Team Collaboration & Event Management**  
 
 ---
 
 ### 📫 Connect with Me  
-- 🌍 **Location**: India  
+- 📍 **Location**: Thrissur, India  
 - 🌐 **Portfolio**: [your-website.com](https://your-website.com)  
 - 🐦 **Twitter**: [@your-twitter](https://twitter.com/your-twitter)  
 - 📷 **Instagram**: [@your-instagram](https://instagram.com/your-instagram)  
