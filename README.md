@@ -6,7 +6,7 @@
 ## 🚀 About Me  
 
 - 🌱 Currently learning **Deep Learning & NLP**  
-- 👀 Interested in **AI & Machine Learning Research**  
+- 👀 Passionate about **AI & Machine Learning Research**  
 - 🎯 **Goal:** Develop Problem-Solving Skills  
 - 📫 **Email:** [kbsivachandra@gmail.com](mailto:kbsivachandra@gmail.com)  
 
@@ -14,11 +14,20 @@
 
 ## 🔬 Research & Projects  
 
-- **Deep Learning**  
-- **Machine Learning**  
-- **Image Preprocessing**  
-- **Natural Language Processing**  
-- **Image Classification**  
+### 🧠 **Artificial Intelligence & Deep Learning**  
+- 🚀 **Deep Learning for Medical Image Analysis**  
+- 🔍 **Machine Learning for Disease Prediction**  
+- 📊 **Explainable AI & Model Interpretability**  
+
+### 🖼️ **Computer Vision & Image Processing**  
+- 🏥 **MRI & CT Scan Image Classification**  
+- 🎨 **Image Preprocessing & Enhancement**  
+- 📸 **Object Detection & Recognition**  
+
+### 📝 **Natural Language Processing (NLP)**  
+- 📜 **Text Mining & Sentiment Analysis**  
+- 📰 **Causal Detection from News Articles**  
+- 🔡 **Named Entity Recognition & Text Classification**  
 
 ---
 
@@ -29,8 +38,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  
-
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 </p>
 
 ### **📊 Databases & Cloud**  
