@@ -15,20 +15,10 @@
 ## 🔬 Research & Projects  
 
 ### 🧠 **Artificial Intelligence & Deep Learning**  
-- 🚀 **Deep Learning for Medical Image Analysis**  
-- 🔍 **Machine Learning for Disease Prediction**  
-- 📊 **Explainable AI & Model Interpretability**  
 
 ### 🖼️ **Computer Vision & Image Processing**  
-- 🏥 **MRI & CT Scan Image Classification**  
-- 🎨 **Image Preprocessing & Enhancement**  
-- 📸 **Object Detection & Recognition**  
 
 ### 📝 **Natural Language Processing (NLP)**  
-- 📜 **Text Mining & Sentiment Analysis**  
-- 📰 **Causal Detection from News Articles**  
-- 🔡 **Named Entity Recognition & Text Classification**  
-
 ---
 
 ## 🛠 Skills & Databases  
