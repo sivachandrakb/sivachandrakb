@@ -46,13 +46,6 @@
 
 ---
 
-## 📈 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sivachandrakb&show_icons=true&theme=radical" width="450px"/>
-</p>
-
----
 
 ## 🌐 Connect with Me  
 
