@@ -51,10 +51,11 @@ I focus on building **reliable, interpretable, and end-to-end data science solut
 
 ### 🧠 NLP & Data Science  
 <p align="center">
-  <img src="https://img.shields.io/badge/Text%20Processing-TF--IDF%20%7C%20Word2Vec%20%7C%20GloVe-6A1B9A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NLP%20Tasks-Text%20Classification%20%7C%20Causal%20Detection%20%7C%20Sarcasm%20Detection-8E24AA?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Uncertainty%20Modeling-Entropy%20%7C%20KL--Divergence%20%7C%20MC%20Dropout-512DA8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Text%20Processing-Word%20Embeddings%20%7C%20Tokenization%20%7C%20Normalization-4A4A4A?style=flat-square" />
+  <img src="https://img.shields.io/badge/NLP%20Tasks-Text%20Classification%20%7C%20Causal%20Detection%20%7C%20Sarcasm%20Detection-4A4A4A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data%20Science%20Workflow-Preprocessing%20%7C%20Modeling%20%7C%20Evaluation%20%7C%20Interpretability-4A4A4A?style=flat-square" />
 </p>
+
 
 ### 📊 Databases & Tools  
 <p align="center">
