@@ -8,7 +8,7 @@ M.Tech Data Science | Applied ML & Deep Learning | Medical Imaging • Speech �
 
 ## 🚀 About Me  
 
-I am an **M.Tech Data Science graduate student** working on **applied machine learning and deep learning** across  
+I am an **M.Tech Data Science student** working on **applied machine learning and deep learning** across  
 **medical imaging, speech processing, and natural language processing (NLP)**.
 
 My work includes **CNN-based MRI stratification**, **radiomics-driven biomarker discovery**,  
@@ -24,17 +24,17 @@ I focus on building **reliable, interpretable, and end-to-end data science solut
 ## 🔬 Research & Focus Areas  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence%20&%20Deep%20Learning-4A4A4A?style=flat-square" />
-  <img src="https://img.shields.io/badge/Medical%20Imaging-CNN%20%7C%20MRI%20%7C%20Radiomics-4A4A4A?style=flat-square" />
-  <img src="https://img.shields.io/badge/Speech%20AI-Mental%20Health%20%7C%20Affective%20Computing-4A4A4A?style=flat-square" />
-  <img src="https://img.shields.io/badge/NLP-Uncertainty--Aware%20Modeling-4A4A4A?style=flat-square" />
+  <img src="https://img.shields.io/badge/🧠-Artificial%20Intelligence%20&%20Deep%20Learning-9cf?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🖼️-Medical%20Imaging%20(CNN%2C%20MRI%2C%20Radiomics)-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🗣️-Speech%20AI%20%26%20Mental%20Health-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📝-NLP%20%26%20Uncertainty--Aware%20Modeling-purple?style=for-the-badge" />
 </p>
 
 ### 🔍 Core Work Areas
-- **Medical Imaging:** CNN-based MRI classification, CT analysis, radiomics feature extraction & biomarker discovery  
-- **Speech AI:** Deep learning pipelines for speech-based mental health and affective computing  
-- **NLP:** Causal detection, sarcasm detection, text classification with uncertainty-aware modeling  
-- **Data Science:** End-to-end ML pipelines, feature engineering, model evaluation, calibration & interpretability  
+- 🧠 **Medical Imaging:** CNN-based MRI classification, CT analysis, radiomics feature extraction & biomarker discovery  
+- 🗣 **Speech AI:** Deep learning pipelines for speech-based mental health and affective computing  
+- 📝 **NLP:** Causal detection, sarcasm detection, text classification with uncertainty-aware modeling  
+- 📊 **Data Science:** End-to-end ML pipelines, feature engineering, model evaluation, calibration & interpretability  
 
 ---
 
@@ -55,6 +55,7 @@ I focus on building **reliable, interpretable, and end-to-end data science solut
   <img src="https://img.shields.io/badge/NLP%20Tasks-Text%20Classification%20%7C%20Causal%20Detection%20%7C%20Sarcasm%20Detection-4A4A4A?style=flat-square" />
   <img src="https://img.shields.io/badge/Data%20Science%20Workflow-Preprocessing%20%7C%20Modeling%20%7C%20Evaluation%20%7C%20Interpretability-4A4A4A?style=flat-square" />
 </p>
+
 
 ### 📊 Databases & Tools  
 <p align="center">
