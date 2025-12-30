@@ -83,6 +83,9 @@ I focus on building **reliable, interpretable, and end-to-end AI systems** that 
 
 ## 📈 GitHub Stats  
 
+ 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sivachandrakb&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sivachandrakb&show_icons=true&cache_seconds=1800" />
 </p>
+
