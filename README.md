@@ -9,12 +9,13 @@ M.Tech Data Science | Applied ML & Deep Learning | Medical Imaging • Speech �
 ## 🚀 About Me  
 
 I am an **M.Tech Data Science student** working on **applied machine learning and deep learning** across  
-**medical imaging, speech processing, and natural language processing**.
+**medical imaging, speech processing, and natural language processing (NLP)**.
 
 My work includes **CNN-based MRI stratification**, **radiomics-driven biomarker discovery**,  
-**uncertainty-aware text classification**, and **deep learning pipelines for speech-based mental health detection**.
+**uncertainty-aware NLP models**, and **deep learning pipelines for speech-based mental health detection**.
 
-I focus on building **reliable, interpretable, and end-to-end AI systems** that bridge **research and real-world impact**.
+I focus on building **reliable, interpretable, and end-to-end data science solutions**, covering  
+**data preprocessing, modeling, evaluation, and uncertainty estimation**, with real-world impact in healthcare AI.
 
 📫 **Email:** [kbsivachandra@gmail.com](mailto:kbsivachandra@gmail.com)
 
@@ -30,10 +31,10 @@ I focus on building **reliable, interpretable, and end-to-end AI systems** that 
 </p>
 
 ### 🔍 Core Work Areas
-- 🧠 **Medical Imaging:** MRI classification, CNNs, Radiomics-based biomarker discovery  
-- 🗣 **Speech AI:** Deep learning pipelines for speech-based mental health detection  
-- 📝 **NLP:** Causal & sarcasm detection with uncertainty-aware modeling  
-- 📊 **Reliable AI:** Model calibration, uncertainty estimation, interpretability  
+- 🧠 **Medical Imaging:** CNN-based MRI classification, CT analysis, radiomics feature extraction & biomarker discovery  
+- 🗣 **Speech AI:** Deep learning pipelines for speech-based mental health and affective computing  
+- 📝 **NLP:** Causal detection, sarcasm detection, text classification with uncertainty-aware modeling  
+- 📊 **Data Science:** End-to-end ML pipelines, feature engineering, model evaluation, calibration & interpretability  
 
 ---
 
@@ -50,7 +51,9 @@ I focus on building **reliable, interpretable, and end-to-end AI systems** that 
 
 ### 🧠 NLP & Data Science  
 <p align="center">
-  <img src="https://img.shields.io/badge/NLP-TF--IDF%20%7C%20Word2Vec%20%7C%20GloVe%20%7C%20NLTK-6A1B9A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Text%20Processing-TF--IDF%20%7C%20Word2Vec%20%7C%20GloVe-6A1B9A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP%20Tasks-Text%20Classification%20%7C%20Causal%20Detection%20%7C%20Sarcasm%20Detection-8E24AA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Uncertainty%20Modeling-Entropy%20%7C%20KL--Divergence%20%7C%20MC%20Dropout-512DA8?style=for-the-badge" />
 </p>
 
 ### 📊 Databases & Tools  
@@ -64,7 +67,7 @@ I focus on building **reliable, interpretable, and end-to-end AI systems** that 
 
 ## 📄 Publications  
 - Peer-reviewed publications in **IEEE, Springer, and CRC Press**  
-- Research areas include **medical imaging AI**, **clinical decision support**, and **deep learning-based diagnostics**
+- Research contributions in **medical imaging AI**, **clinical decision support systems**, and **deep learning-based diagnostics**
 
 ---
 
@@ -78,5 +81,3 @@ I focus on building **reliable, interpretable, and end-to-end AI systems** that 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
-
